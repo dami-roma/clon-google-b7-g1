@@ -1,14 +1,15 @@
 * {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
+    font-family: "Arial", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
     font-style: normal;
-}
+}  
 body {
     margin: 0px;
 }
 .icono-buscador{
     display: inline-block;
-    width: 20px;
+    width: 25px;
     margin: 0px;
 }
 .flex {
@@ -23,7 +24,7 @@ body {
 }
 ul li {
     display: inline;
-    padding: 15px;
+    padding: 20px;
 }
 ul {
     padding-left: 0px;
@@ -47,6 +48,9 @@ nav ul {
     align-items: center;
     margin: 0px;
 }
+#cuadros {
+    width: 30px;
+}
 #perfil {
     border-radius: 50%;
     width: 35px;
@@ -55,14 +59,14 @@ main {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    height: 62vh;
-    padding-top: 17vh;
+    height: 75vh;
+    padding-top: 8vh;
 }
 article {
     text-align: center;
 }
 #logo img {
-    width: 272px;
+    width: 550px;
 }
 #buscador{
     border: 1px solid #dfe1e5;
@@ -71,7 +75,7 @@ article {
     align-items: flex-end;
     justify-content: center;
     padding: 10px 10px;
-    width: 530px;
+    width: 600px;
     margin-top: 1.5em;
 }
 #buscador:hover {
@@ -107,6 +111,7 @@ footer a {
     color: #202124;
     text-decoration: none;
     font-size: 14px;
+    
 }
 a:hover {
     text-decoration: underline;
