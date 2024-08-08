@@ -4,8 +4,7 @@
 
 **Fue desarrollado con HTML y CSS.**
 
-La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
-
+La página es responsiva (adaptable a diferentes tamaños de pantalla).
 ## Secciones de mi sitio
 
 ![Clon de google](assets/Captura.PNG)
